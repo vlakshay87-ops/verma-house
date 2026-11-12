@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>__SITE_URL__/</loc></url>
+  <url><loc>__SITE_URL__/about/</loc></url>
+  <url><loc>__SITE_URL__/services/</loc></url>
+  <url><loc>__SITE_URL__/services/performance-marketing/</loc></url>
+  <url><loc>__SITE_URL__/services/google-ads/</loc></url>
+  <url><loc>__SITE_URL__/services/meta-ads/</loc></url>
+  <url><loc>__SITE_URL__/services/seo/</loc></url>
+  <url><loc>__SITE_URL__/services/website-development/</loc></url>
+  <url><loc>__SITE_URL__/services/conversion-optimization/</loc></url>
+  <url><loc>__SITE_URL__/services/local-seo/</loc></url>
+  <url><loc>__SITE_URL__/services/marketing-strategy/</loc></url>
+  <url><loc>__SITE_URL__/services/analytics-tracking/</loc></url>
+  <url><loc>__SITE_URL__/blog/</loc></url>
+  <url><loc>__SITE_URL__/blog/google-ads-vs-meta-ads/</loc></url>
+  <url><loc>__SITE_URL__/blog/why-your-website-is-not-generating-leads/</loc></url>
+  <url><loc>__SITE_URL__/contact/</loc></url>
+  <url><loc>__SITE_URL__/privacy-policy/</loc></url>
+  <url><loc>__SITE_URL__/terms/</loc></url>
+</urlset>
